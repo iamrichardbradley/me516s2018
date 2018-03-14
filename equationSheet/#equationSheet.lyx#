@@ -626,7 +626,7 @@ status open
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-08 at 7.25.08 PM.png
 	lyxscale 25
-	scale 35
+	scale 45
 	rotateAngle 270
 
 \end_inset
@@ -752,7 +752,7 @@ status open
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-08 at 7.25.08 PM.png
 	lyxscale 25
-	scale 35
+	scale 45
 	rotateAngle 270
 
 \end_inset
@@ -922,7 +922,7 @@ status open
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-08 at 8.12.16 PM.png
 	lyxscale 10
-	scale 25
+	scale 35
 
 \end_inset
 
@@ -1072,8 +1072,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-08 at 8.59.13 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -1193,8 +1193,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-08 at 9.22.31 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 	rotateAngle 90
 
 \end_inset
@@ -1419,8 +1419,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-12 at 4.50.36 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -1664,8 +1664,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-13 at 3.26.12 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -1885,8 +1885,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-13 at 3.37.59 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -2133,8 +2133,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-13 at 4.13.14 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -2251,9 +2251,6 @@ In terms of the rotating system xyz the derivative of vector
 \end_layout
 
 \begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
 \begin_inset Formula $\mathbf{\dot{R}}$
 \end_inset
 
@@ -2263,9 +2260,6 @@ O'.
 \end_layout
 
 \begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
 \begin_inset Formula $\mathbf{\omega\times\rho}$
 \end_inset
 
@@ -2281,9 +2275,6 @@ as viewed from the fixed system.
 \end_layout
 
 \begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
 \begin_inset Formula $\mathbf{\dot{R}}+\mathbf{\omega\times\rho}$
 \end_inset
 
@@ -2293,9 +2284,6 @@ P'.
 \end_layout
 
 \begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
 \begin_inset Formula $(\dot{\mathbf{\rho}})_{r}$
 \end_inset
 
@@ -2336,8 +2324,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename /Users/bradleyr/Desktop/Screen Shot 2018-03-13 at 4.37.35 PM.png
-	lyxscale 15
-	scale 30
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -2373,9 +2361,6 @@ relative to a moving coordinate system.
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-\align block
 To find the absolute acceleration of 
 \emph on
 P,
@@ -2389,112 +2374,12 @@ P,
 
 \begin_inset Formula 
 \begin{equation}
-\frac{d}{dt}[(\dot{\mathbf{\rho}})_{r}]=(\ddot{\mathbf{\rho}})_{r}+\mathbf{\omega\times}(\dot{\mathbf{\rho}})_{r}
+\frac{d}{dt}[(\dot{\mathbf{\rho}})_{r}]=(\ddot{\mathbf{\rho}})_{r}+\mathbf{\omega\times}(\dot{\mathbf{}}
 \end{equation}
 
 \end_inset
 
 
-\begin_inset Formula 
-\[
-\frac{d}{dt}(\mathbf{\omega\times\rho})=\dot{\mathbf{\omega}}\mathbf{\times\rho}+\mathbf{\omega\times\dot{\rho}}...
-\]
-
-\end_inset
-
-
-\begin_inset Formula 
-\begin{equation}
-...=\dot{\mathbf{\omega}}\mathbf{\times\rho}+\mathbf{\omega\times(\dot{\rho})}_{r}+\mathbf{\omega\times(\omega\times\rho)}
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-\align block
-Therefore,
-\begin_inset Formula 
-\begin{equation}
-\mathbf{a=\ddot{R}+\dot{\omega}\times\rho+\omega\times(\omega\times\rho)+(\ddot{\rho})_{r}}+2\mathbf{\omega\times(\dot{\rho})}_{r}
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-\align block
-Where,
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
-\begin_inset Formula $\mathbf{\ddot{R}}$
-\end_inset
-
- is the absolute acceleration of 
-\emph on
-O'.
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
-\begin_inset Formula $\mathbf{\dot{\omega}\times\rho}$
-\end_inset
-
- and 
-\begin_inset Formula $\mathbf{\omega\times(\omega\times\rho)}$
-\end_inset
-
- both represent the acceleration of 
-\emph on
-P' 
-\emph default
-relative to 
-\emph on
-O' 
-\emph default
-in the fixed system.
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
-\begin_inset Formula $\mathbf{(\ddot{\rho}})_{r}$
-\end_inset
-
- is the acceleration of the point 
-\emph on
-P 
-\emph default
-relative to the rotating system.
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing onehalf
-\noindent
-\align block
-\begin_inset Formula $\mathbf{2\omega\times(\dot{\rho})}_{r}$
-\end_inset
-
- is the 
-\emph on
-Coriolis acceleration
-\emph default
-.
 \end_layout
 
 \begin_layout Section*
@@ -2515,12 +2400,6 @@ Plane Motion
 \align block
 This section contains lengthy paragraphs and many examples.
  It is best to review the examples in this section.
-\end_layout
-
-\begin_layout Section*
-\paragraph_spacing onehalf
-\noindent
-Module 4 (2.12-2.16): Chapter 3
 \end_layout
 
 \end_body
