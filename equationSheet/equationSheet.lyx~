@@ -3117,21 +3117,224 @@ x=f(x_{0},\,v_{0},\,t)
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 SEE EXAMPLE 3-4 
-\end_layout
-
-\begin_layout Subsection*
-Work and Kinetic Energy 
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Section*
 \paragraph_spacing onehalf
 \noindent
 Module 5 (2.19-2.23): Chapter 3
+\end_layout
+
+\begin_layout Subsection*
+\paragraph_spacing onehalf
+\noindent
+Introduction:
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+In some cases of particle mechanics, general principles apply which are
+ directly derivable from Newton's laws of motion.
+ However, explicit study of these principles provides further insight into
+ particle dynamics and may readily contribute to problem solution.
+\end_layout
+
+\begin_layout Subsection*
+\paragraph_spacing onehalf
+\noindent
+Work and Kinetic Energy: 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+The first principle to be discussed is the 
+\emph on
+principle of work and kinetic energy
+\emph default
+, which states:
+\end_layout
+
+\begin_layout Quote
+\paragraph_spacing onehalf
+\noindent
+The increase in kinetic energy of a particle in going from one arbitrary
+ point to another is equal to the work done by the forces acting on the
+ particle as it moves over the given interval.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+To illustrate, consider a particle of mass 
+\emph on
+m 
+\emph default
+that moves along a path from location 
+\emph on
+A 
+\emph default
+to location 
+\emph on
+B 
+\emph default
+under the action of force 
+\begin_inset Formula $\mathbf{F}$
+\end_inset
+
+ as shown in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:The-path-of"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Screen Shot 2018-03-14 at 5.22.09 PM.png
+	lyxscale 25
+	scale 30
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:The-path-of"
+
+\end_inset
+
+The path of a particle acted upon by an external force.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+With respect to the position vector, the equation of motion is written as,
+\begin_inset Formula 
+\begin{equation}
+\mathbf{F}=m\ddot{\mathbf{r}}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Integrating with respect to position 
+\emph on
+r,
+\begin_inset Formula 
+\begin{equation}
+\int_{A}^{B}\mathbf{F}\cdot d\mathbf{r}=\int_{A}^{B}m\ddot{\mathbf{r}}\cdot d\mathbf{r}
+\end{equation}
+
+\end_inset
+
+ 
+\emph default
+Where 
+\begin_inset Formula $d\mathbf{r}$
+\end_inset
+
+ is taken to be in the 
+\begin_inset Formula $\mathbf{e}_{t}$
+\end_inset
+
+ direction along each point of the curve such that,
+\begin_inset Formula 
+\begin{equation}
+\mathbf{\ddot{r}}\cdot d\mathbf{r}=\frac{1}{2}\frac{d}{dt}(\dot{\mathbf{r}}\cdot\dot{\mathbf{r}})dt=\frac{1}{2}d(v^{2})
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Upon substitution,
+\begin_inset Formula 
+\begin{equation}
+\int_{A}^{B}\mathbf{F}\cdot d\mathbf{r}=\frac{1}{2}m\,v_{B}^{2}-\frac{1}{2}m\,v_{A}^{2}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+In the above expression, the left side represents the 
+\emph on
+work
+\emph default
+ done by force 
+\begin_inset Formula $\mathbf{F}$
+\end_inset
+
+ on the particle as it moves from 
+\emph on
+A 
+\emph default
+to 
+\emph on
+B
+\emph default
+.
+ The right side expression represents the change in 
+\emph on
+kinetic energy
+\emph default
+ of the particle as it moves from 
+\emph on
+A 
+\emph default
+to 
+\emph on
+B.
 \end_layout
 
 \begin_layout Section*
