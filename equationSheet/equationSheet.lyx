@@ -96,7 +96,6 @@ Richard Bradley
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align center
 A summary of select chapters of 
 \emph on
 Principles of Dynamics (2 Ed.) 
@@ -108,7 +107,6 @@ by Donald T.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Newpage newpage
 \end_inset
 
@@ -136,7 +134,6 @@ Derivative of a vector
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Considering a 
 \emph on
 vector function
@@ -164,7 +161,6 @@ is defined by limit,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Derivative of vector sum 
 \begin_inset Formula $\mathbf{A}+\mathbf{B}$
 \end_inset
@@ -183,7 +179,6 @@ Derivative of vector sum
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Vector differentiation is 
 \emph on
 distributive,
@@ -200,7 +195,6 @@ distributive,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 And the following can be shown,
 \begin_inset Formula 
 \begin{equation}
@@ -237,7 +231,6 @@ Newton's Law of Motion:
 \begin_layout Enumerate
 \paragraph_spacing onehalf
 \noindent
-\align block
 Every body continues in its state of rest, or of uniform motion in a straight
  line, unless compelled to change that state by forces acting upon it.
 \end_layout
@@ -245,7 +238,6 @@ Every body continues in its state of rest, or of uniform motion in a straight
 \begin_layout Enumerate
 \paragraph_spacing onehalf
 \noindent
-\align block
 The time rate of change of linear momentum of a bod is proportional to the
  force acting upon it and occurs in the direction in which the force acts.
 \end_layout
@@ -253,7 +245,6 @@ The time rate of change of linear momentum of a bod is proportional to the
 \begin_layout Enumerate
 \paragraph_spacing onehalf
 \noindent
-\align block
 To every action there is an equal and opposite reaction; that is, the mutual
  forces of two bodies acting upon each other are equal in magnitude and
  opposite in direction.
@@ -268,7 +259,6 @@ Laws of Motion for a Particle:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Stating 
 \series bold
 three
@@ -291,7 +281,6 @@ law of motion
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 where 
 \begin_inset Formula $m\mathbf{v}$
 \end_inset
@@ -319,7 +308,6 @@ where
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The second basic law expresses 
 \emph on
 collinearity
@@ -332,7 +320,6 @@ law of action and reaction:
 \begin_layout Quote
 \paragraph_spacing onehalf
 \noindent
-\align block
 Two particles exert interaction forces on one another that are equal in
  magnitude, opposite in sense, and directed along straight line joining
  particles.
@@ -341,7 +328,6 @@ Two particles exert interaction forces on one another that are equal in
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Finally the third basic law, 
 \emph on
 law of addition of forces
@@ -366,7 +352,6 @@ Frames of Reference:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Frames of reference are 
 \series bold
 always 
@@ -382,7 +367,6 @@ inertial (Newtonian)
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 A relative reference frame, 
 \begin_inset Formula $B$
 \end_inset
@@ -434,7 +418,6 @@ respectively,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Where upon differentiating,
 \begin_inset Formula 
 \begin{equation}
@@ -449,7 +432,6 @@ Where upon differentiating,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 It is seen that from the Newtonian point of view, forces, masses, and accelerati
 ons are seen as equal by both observes.
  This is referred to as the 
@@ -468,7 +450,6 @@ D'Alemberts's Principle:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Writing Newton's law of motion for a particle in the form,
 \begin_inset Formula 
 \begin{equation}
@@ -483,7 +464,6 @@ Writing Newton's law of motion for a particle in the form,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 effectively transforms the dynamically stated problem to a statically defined
  problem.
  Therefore, d'Alembert's principle simply states,
@@ -492,7 +472,6 @@ effectively transforms the dynamically stated problem to a statically defined
 \begin_layout Quote
 \paragraph_spacing onehalf
 \noindent
-\align block
 The laws of static equilibrium apply to a dynamical system if the inertia
  forces, as well as the actual external forces, are considered as the forces
  acting on the system.
@@ -501,7 +480,6 @@ The laws of static equilibrium apply to a dynamical system if the inertia
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Considerable care must be taken in use of d'Alembert's principle, as the
  inertia forces 
 \emph on
@@ -535,7 +513,6 @@ Kinematics:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 
 \emph on
 Kinematics 
@@ -550,7 +527,6 @@ is the study of particles and rigid bodies, disregarding forces associated
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The position of particle P in the XYZ coordinate system of 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -599,7 +575,6 @@ of P relative to the XYZ system.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 and the acceleration of P is given as,
 \begin_inset Formula 
 \begin{equation}
@@ -614,7 +589,6 @@ and the acceleration of P is given as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -664,7 +638,6 @@ Angular Velocity:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 In kinematics the primary concern is the translation of a point relative
  to a given reference frame, that is, with the position vector of the point
  and with its derivatives with respect to time.
@@ -684,7 +657,6 @@ orientation (rotation)
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Consider the motion of rigid body shown in 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -731,7 +703,6 @@ reference "fig:Motion-of-rigid"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The angular velocity is a free vector and will produce different results
  based upon the reference frame.
  It is dependent upon the body only and not of the base point.
@@ -740,7 +711,6 @@ The angular velocity is a free vector and will produce different results
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -793,7 +763,6 @@ Rigid Body Motion About a Fixed Point:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 In 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -835,7 +804,6 @@ instantaneous axis of rotation
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The velocity of P is of magnitude 
 \begin_inset Formula $\dot{s}$
 \end_inset
@@ -856,7 +824,6 @@ The velocity of P is of magnitude
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Differentiating with respect to time, the acceleration of P is given as,
 \begin_inset Formula 
 \begin{equation}
@@ -871,7 +838,6 @@ Differentiating with respect to time, the acceleration of P is given as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 or noting that 
 \begin_inset Formula $\mathbf{\dot{r}}=\mathbf{v}$
 \end_inset
@@ -890,7 +856,6 @@ or noting that
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Where from the above, the term 
 \begin_inset Formula $\mathbf{\omega\times(\omega\times r)}$
 \end_inset
@@ -910,7 +875,6 @@ tangential acceleration
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -965,7 +929,6 @@ Time Derivative of a Unit Vector:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 As was the case of determining the derivative with respect to time of the
  position vector 
 \begin_inset Formula $\mathbf{r}$
@@ -986,7 +949,6 @@ in the previous section (magnitude is constant but direction changes), the
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 In the case where the unit vectors form an orthogonal system, vector multiplicat
 ion is possible through the determinate expression, and writing the angular
  velocity in the form,
@@ -1003,7 +965,6 @@ ion is possible through the determinate expression, and writing the angular
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 obtains,
 \begin_inset Formula 
 \begin{equation}
@@ -1034,7 +995,6 @@ Cartesian Coordinates
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The position of particle P relative to the origin O of the system XYZ is
  shown in 
 \begin_inset CommandInset ref
@@ -1057,7 +1017,6 @@ reference "fig:Cartesian-coordinates-and"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -1107,7 +1066,6 @@ Cartesian coordinates and unit vectors.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The velocity is therefore given as,
 \begin_inset Formula 
 \begin{equation}
@@ -1122,7 +1080,6 @@ The velocity is therefore given as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 and the corresponding acceleration,
 \begin_inset Formula 
 \begin{equation}
@@ -1137,7 +1094,6 @@ and the corresponding acceleration,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Considering the system XYZ to an inertial frame, the velocity and acceleration
  are 
 \emph on
@@ -1155,7 +1111,6 @@ Cylindrical Coordinates
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Now considering the case where cylindrical coordinates are used to express
  the XYZ system in terms of 
 \begin_inset Formula $r,\,\phi,\,z$
@@ -1182,7 +1137,6 @@ reference "fig:Cylindrical-coodinates-and"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -1229,7 +1183,6 @@ Cylindrical coordinates and unit vectors.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 The velocity is found as,
 \begin_inset Formula 
 \begin{equation}
@@ -1244,7 +1197,6 @@ The velocity is found as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 It is seen that 
 \begin_inset Formula $\mathbf{e_{r}}$
 \end_inset
@@ -1289,7 +1241,6 @@ absolute
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 and its shown that,
 \begin_inset Formula 
 \[
@@ -1320,7 +1271,6 @@ and its shown that,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 In which the velocity is found as,
 \begin_inset Formula 
 \begin{equation}
@@ -1335,7 +1285,6 @@ In which the velocity is found as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Differentiating with respect to time provides the acceleration,
 \begin_inset Formula 
 \begin{equation}
@@ -1364,7 +1313,6 @@ Spherical Coordinates
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Finally, considering the case where the XYZ system is cast into spherical
  coordinates, 
 \begin_inset Formula $r$
@@ -1408,7 +1356,6 @@ is found as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -1454,7 +1401,6 @@ Spherical coordinates and unit vectors.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 In order to determine the derivatives of the unit vectors, i.e.
  
 \begin_inset Formula $\mathbf{\dot{e_{r}}}$
@@ -1515,7 +1461,6 @@ reference "fig:Spherical-coordinates-and"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 From 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -1549,7 +1494,6 @@ and along with previous equation, the angular velocity is expressed as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Taking advantage of orthogonality,
 \begin_inset Formula 
 \begin{equation}
@@ -1568,7 +1512,6 @@ Taking advantage of orthogonality,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Finally, the velocity and acceleration are found as,
 \begin_inset Formula 
 \begin{equation}
@@ -1599,13 +1542,12 @@ Finally, the velocity and acceleration are found as,
 \begin_layout Subsection*
 \paragraph_spacing onehalf
 \noindent
-Tangential and Normal Components
+Tangential and Normal Components:
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Both the velocity and acceleration of a point moving along a curve can be
  expressed in terms of 
 \emph on
@@ -1649,7 +1591,6 @@ d\mathbf{r}=ds\mathbf{e}_{t};\:\:\therefore\,\mathbf{e}_{t}=\frac{d\mathbf{r}}{d
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -1699,7 +1640,6 @@ Tangential, normal, and binormal unit vectors along a curve.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Taking the derivative provides the velocity as,
 \begin_inset Formula 
 \begin{equation}
@@ -1714,7 +1654,6 @@ Taking the derivative provides the velocity as,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 with the acceleration,
 \begin_inset Formula 
 \begin{equation}
@@ -1729,7 +1668,6 @@ with the acceleration,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Again from 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -1805,7 +1743,6 @@ is equal to its rotation rate,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Substituting the expression for the rotation rate into the above equation
  for the definition of the acceleration,
 \begin_inset Formula 
@@ -1821,7 +1758,6 @@ Substituting the expression for the rotation rate into the above equation
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 where the first is component is the 
 \emph on
 tangential 
@@ -1836,7 +1772,7 @@ centripetal
 \begin_layout Subsection*
 \paragraph_spacing onehalf
 \noindent
-Simple Motions of a Point
+Simple Motions of a Point:
 \end_layout
 
 \begin_layout Subsubsection*
@@ -1848,7 +1784,6 @@ Circular Motion
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Considering simple motion as shown in 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -1860,7 +1795,7 @@ reference "fig:Circular-motion-of"
 \begin_inset Formula $(r,\theta)$
 \end_inset
 
- the posistion vector is given as,
+ the position vector is given as,
 \begin_inset Formula 
 \begin{equation}
 \mathbf{r}=r\mathbf{e}_{r}
@@ -1874,7 +1809,6 @@ reference "fig:Circular-motion-of"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -1920,7 +1854,6 @@ Circular motion of a point.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 While the velocity and speed along the path are found to be,
 \begin_inset Formula 
 \begin{equation}
@@ -1952,7 +1885,6 @@ v=r\dot{\theta}=r\omega
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Since 
 \begin_inset Formula $\mathbf{\dot{e}_{\theta}=}-\omega\mathbf{e}_{r}$
 \end_inset
@@ -1977,7 +1909,6 @@ Helical Motion
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Not covered during this time.
 \end_layout
 
@@ -1990,20 +1921,18 @@ Harmonic Motion
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Not covered during this time.
 \end_layout
 
 \begin_layout Subsection*
 \paragraph_spacing onehalf
 \noindent
-Velocity and Acceleration of a Point in a Rigid Body
+Velocity and Acceleration of a Point in a Rigid Body:
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Refer to sections 
 \begin_inset Quotes eld
 \end_inset
@@ -2034,13 +1963,12 @@ Time Derivative of Unit Vector
 \begin_layout Subsection*
 \paragraph_spacing onehalf
 \noindent
-Vector Derivatives in a Rotating Systems 
+Vector Derivatives in a Rotating Systems: 
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Assume 
 \begin_inset Formula $\mathbf{A}$
 \end_inset
@@ -2090,7 +2018,6 @@ reference "fig:The-vector-"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 and,
 \begin_inset Formula 
 \begin{equation}
@@ -2122,7 +2049,6 @@ and,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -2172,13 +2098,12 @@ The vector
 \begin_layout Subsection*
 \paragraph_spacing onehalf
 \noindent
-Motion of a Particle in a Moving Coordinate System
+Motion of a Particle in a Moving Coordinate System:
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Building upon previous material, the absolute velocity and acceleration
  of a particle 
 \emph on
@@ -2226,7 +2151,6 @@ and
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 In terms of the rotating system xyz the derivative of vector 
 \begin_inset Formula $\mathbf{\rho}$
 \end_inset
@@ -2253,7 +2177,6 @@ In terms of the rotating system xyz the derivative of vector
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{\dot{R}}$
 \end_inset
 
@@ -2265,7 +2188,6 @@ O'.
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{\omega\times\rho}$
 \end_inset
 
@@ -2283,7 +2205,6 @@ as viewed from the fixed system.
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{\dot{R}}+\mathbf{\omega\times\rho}$
 \end_inset
 
@@ -2295,7 +2216,6 @@ P'.
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $(\dot{\mathbf{\rho}})_{r}$
 \end_inset
 
@@ -2321,7 +2241,6 @@ from the fixed system.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Float figure
 placement H
 wide false
@@ -2375,7 +2294,6 @@ relative to a moving coordinate system.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 To find the absolute acceleration of 
 \emph on
 P,
@@ -2416,7 +2334,6 @@ P,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Therefore,
 \begin_inset Formula 
 \begin{equation}
@@ -2431,14 +2348,12 @@ Therefore,
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 Where,
 \end_layout
 
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{\ddot{R}}$
 \end_inset
 
@@ -2450,7 +2365,6 @@ O'.
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{\dot{\omega}\times\rho}$
 \end_inset
 
@@ -2472,7 +2386,6 @@ in the fixed system.
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{(\ddot{\rho}})_{r}$
 \end_inset
 
@@ -2486,7 +2399,6 @@ relative to the rotating system.
 \begin_layout Itemize
 \paragraph_spacing onehalf
 \noindent
-\align block
 \begin_inset Formula $\mathbf{2\omega\times(\dot{\rho})}_{r}$
 \end_inset
 
@@ -2506,13 +2418,12 @@ Module 3 (2.5-2.9): Chapter 2
 \begin_layout Subsection*
 \paragraph_spacing onehalf
 \noindent
-Plane Motion
+Plane Motion:
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\align block
 This section contains lengthy paragraphs and many examples.
  It is best to review the examples in this section.
 \end_layout
@@ -2521,6 +2432,714 @@ This section contains lengthy paragraphs and many examples.
 \paragraph_spacing onehalf
 \noindent
 Module 4 (2.12-2.16): Chapter 3
+\end_layout
+
+\begin_layout Subsection*
+\paragraph_spacing onehalf
+\noindent
+Introduction:
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+The current chapter studies calculation of particle motion based with upon
+ previous knowledge of acting forces.
+ Consider the general case where an acting force is a function of position
+ and velocity and time,
+\begin_inset Formula 
+\begin{equation}
+m\mathbf{\ddot{\mathbf{r}}=}\mathbf{F(r,\dot{r},}t)
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+This is in fact an ordinary differential equation composed of scalars 
+\emph on
+and 
+\emph default
+vectors - a rather complicated expression with little possibility of obtaining
+ an analytical solution.
+ However, from Newtonian mechanics the solution must be obtainable since
+ complete knowledge of acting forces, along with initial conditions, should
+ fully describe particle motion.
+ Therefore, a variety of methods do in fact exist to obtain a solution to
+ the above expression and are discussed in this chapter.
+\end_layout
+
+\begin_layout Subsection*
+\paragraph_spacing onehalf
+\noindent
+Direct Integration of the Equations of Motion:
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing onehalf
+\noindent
+Case 1 - Constant Acceleration
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+This is the simplest case in which acting force is constant in magnitude
+ and direction.
+ Therefore the general case equation of motion simplifies to,
+\begin_inset Formula 
+\[
+m\ddot{x}=F_{x}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+m\ddot{y}=F_{y}
+\end{equation}
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+m\ddot{z}=F_{z}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+As directions of motion are orthogonal, acting forces are independent with
+ respect to the XYZ system and can be studied individually.
+ For the 
+\begin_inset Formula $x$
+\end_inset
+
+ case,
+\begin_inset Formula 
+\begin{equation}
+a=\ddot{x}=\frac{F_{x}}{m}
+\end{equation}
+
+\end_inset
+
+ By direct integration with respect to time,
+\begin_inset Formula 
+\begin{equation}
+v=v_{0}+at
+\end{equation}
+
+\end_inset
+
+and finally position by direct integration,
+\begin_inset Formula 
+\begin{equation}
+x=x_{0}+v_{0}t+\frac{1}{2}at^{2}
+\end{equation}
+
+\end_inset
+
+Solving for time to achieve given speed or displacement respectively,
+\begin_inset Formula 
+\begin{equation}
+t=\frac{1}{a}(v-v_{0})
+\end{equation}
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+t=\frac{1}{a}(\sqrt{2a(x-x_{0})+v_{0}^{2}}-v_{0})
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+and by cancelation of 
+\begin_inset Formula $t$
+\end_inset
+
+ in the above expressions,
+\begin_inset Formula 
+\begin{equation}
+v^{2}=v_{0}^{2}+2a(x-x_{0})
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing onehalf
+\noindent
+Motion of a Particle in a Uniform Gravitational Field
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+When the only acting force on a particle is a uniform gravitational field,
+ particle motion is confined to the plane established from the initial velocity
+ vector and the acting gravitational force.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+From 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:The-trajectory-of"
+
+\end_inset
+
+ assume the particle is at 
+\emph on
+O 
+\emph default
+at time 
+\begin_inset Formula $t_{0}$
+\end_inset
+
+ with a velocity 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+ directed at angle 
+\begin_inset Formula $\gamma$
+\end_inset
+
+ from the 
+\emph on
+x
+\emph default
+-axis.
+ The velocity components of the particle would be,
+\begin_inset Formula 
+\[
+\dot{x}(0)=v_{o}cos\gamma
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+\dot{y}(0)=v_{0}sin\gamma
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+with the acceleration components being,
+\begin_inset Formula 
+\[
+a_{x}=0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+a_{y}=-grav.
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+From introductory courses, it is known that the velocity components of the
+ particle will behave independently, such that,
+\begin_inset Formula 
+\[
+v_{x}=v_{0}cos\gamma
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+v_{y}=v_{0}sin\gamma-grav.\,t
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Noting constant accelerations and independence of vertical and horizontal
+ motion, direct integration can be used to determine position,
+\begin_inset Formula 
+\[
+x=v_{0}t\,cos\gamma
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+y=v_{0}t\,sin\gamma-\frac{1}{2}grav.\,t^{2}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Where the time to reach a given distance can be found by solving for either
+ 
+\emph on
+x 
+\emph default
+or 
+\emph on
+y
+\emph default
+ in the above.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Screen Shot 2018-03-14 at 3.34.09 PM.png
+	lyxscale 30
+	scale 30
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:The-trajectory-of"
+
+\end_inset
+
+The trajectory of a particle in a uniform gravitational field.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Other useful expressions include determining the trajectory and vertex locations
+ in terms of 
+\emph on
+x 
+\emph default
+and 
+\emph on
+y.
+ 
+\emph default
+By solving the 
+\emph on
+x-
+\emph default
+position equation for 
+\emph on
+t 
+\emph default
+and substituting into the 
+\emph on
+y-
+\emph default
+position equation, the expression for the shape of the travel-parabola is
+ given,
+\begin_inset Formula 
+\begin{equation}
+y=x\,tan\gamma-\frac{grav.\,x^{2}}{2v_{0}^{2}cos^{2}\gamma}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+and by differentiating with respect to 
+\emph on
+x 
+\emph default
+and setting the result equal to 0,
+\begin_inset Formula 
+\begin{equation}
+x_{v}=\frac{v_{0}^{2}}{grav.}sin\gamma cos\gamma=\frac{v_{0}^{2}}{2grav.}sin2\gamma
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+From the two above equations,
+\begin_inset Formula 
+\begin{equation}
+y_{v}=\frac{v_{0}^{2}}{2grav.}sin^{2}\gamma
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Similarly, using the expressions for both arbitrary 
+\emph on
+x-
+\emph default
+position and 
+\emph on
+x-
+\emph default
+position of the vertex, the time to reach the vertex can be solved for,
+\begin_inset Formula 
+\begin{equation}
+t_{v}=\frac{v_{0}}{g}sin\gamma
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+where time of flight 
+\begin_inset Formula $t_{f}=2t_{v}$
+\end_inset
+
+ considering a uniform horizontal.
+ Also considering a uniform horizontal, the range 
+\begin_inset Formula $R=2x_{v}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing onehalf
+\noindent
+Case 2 - 
+\series medium
+
+\begin_inset Formula $\mathbf{F=F(}t)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+If the acting force is only a function of time (not of position or velocity)
+ the equation of motion is written as,
+\begin_inset Formula 
+\begin{equation}
+m\ddot{x}=F_{x}\mathbf{(}t)
+\end{equation}
+
+\end_inset
+
+ for the 
+\emph on
+x-
+\emph default
+direction.
+ Integration techniques to determine the velocity yield,
+\begin_inset Formula 
+\begin{equation}
+v=v_{0}+\frac{1}{m}\int_{0}^{t}F_{x}(\tau)d\tau
+\end{equation}
+
+\end_inset
+
+ While another integration results in,
+\begin_inset Formula 
+\begin{equation}
+x=x_{0}+v_{0}t+\frac{1}{m}\int_{0}^{t}[\int_{0}^{\tau_{2}}F_{x}(\tau_{1})d\tau_{1}]d\tau_{2}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+SEE EXAMPLE 3-2
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing onehalf
+\noindent
+Case 3 - 
+\series medium
+
+\begin_inset Formula $\mathbf{F}=F_{x}(x)\mathbf{i}+F_{y}(y)\mathbf{j}+F_{z}(z)\mathbf{k}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Again only considering the 
+\emph on
+x 
+\emph default
+component of the force,
+\begin_inset Formula 
+\begin{equation}
+m\ddot{x}=F_{x}(x)
+\end{equation}
+
+\end_inset
+
+ By substituting 
+\begin_inset Formula $\dot{x=v}$
+\end_inset
+
+,
+\begin_inset Formula 
+\begin{equation}
+\ddot{x}=\frac{dv}{dt}=\frac{dv}{dx}\frac{dx}{dt}=v\frac{dv}{dx}
+\end{equation}
+
+\end_inset
+
+ It is seen that,
+\begin_inset Formula 
+\begin{equation}
+mv\frac{dv}{dx}=F_{x}(x)
+\end{equation}
+
+\end_inset
+
+ and with direct integration,
+\begin_inset Formula 
+\begin{equation}
+\frac{1}{2}m(v^{2}-v_{0}^{2})=\int_{x_{0}}^{x}F_{x}(x)dx
+\end{equation}
+
+\end_inset
+
+ A final integration provides,
+\begin_inset Formula 
+\begin{equation}
+t=f(x_{0},\,v_{0},\,x)
+\end{equation}
+
+\end_inset
+
+ where a solution is found in the form,
+\begin_inset Formula 
+\begin{equation}
+x=g(x_{0},\,v_{0},\,t)
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+SEE EXAMPLE 3-3
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing onehalf
+\noindent
+Case 4 - 
+\begin_inset Formula $\mathbf{F=}F_{x}(\dot{x})\mathbf{i}+F_{y}(\dot{y})\mathbf{j}+F_{z}(\dot{z})\mathbf{k}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Since each component of the acting force is still independent, the 
+\emph on
+x-
+\emph default
+component is only considered,
+\begin_inset Formula 
+\begin{equation}
+m\frac{dv}{dt}=F_{x}(v)
+\end{equation}
+
+\end_inset
+
+ Separation of variables provides,
+\begin_inset Formula 
+\begin{equation}
+t=m\int_{v_{0}}^{v}\frac{dv}{F_{x}(v)}
+\end{equation}
+
+\end_inset
+
+ Where upon solving for the velocity,
+\begin_inset Formula 
+\begin{equation}
+v=\frac{dx}{dt}=g(v_{o},\,t)
+\end{equation}
+
+\end_inset
+
+ With a final integration,
+\begin_inset Formula 
+\begin{equation}
+x=f(x_{0},\,v_{0},\,t)
+\end{equation}
+
+\end_inset
+
+ A similar approach is to use the expression 
+\begin_inset Formula $\ddot{x}=v\,dv/dx$
+\end_inset
+
+ within in the equation of motion as,
+\begin_inset Formula 
+\begin{equation}
+mv\frac{dv}{dx}=F_{x}(v)
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Integration provides,
+\begin_inset Formula 
+\begin{equation}
+m\int_{v_{0}}^{v}\frac{vdv}{F_{x}(v)}=x-x_{0}
+\end{equation}
+
+\end_inset
+
+Subtracting 
+\emph on
+v 
+\emph default
+from the expression for 
+\emph on
+t 
+\emph default
+and the above expression gives the same result,
+\begin_inset Formula 
+\begin{equation}
+x=f(x_{0},\,v_{0},\,t)
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+SEE EXAMPLE 3-4 
+\end_layout
+
+\begin_layout Subsection*
+Work and Kinetic Energy 
+\end_layout
+
+\begin_layout Section*
+\paragraph_spacing onehalf
+\noindent
+Module 5 (2.19-2.23): Chapter 3
+\end_layout
+
+\begin_layout Section*
+\paragraph_spacing onehalf
+\noindent
+Module 6 (2.26-3.2): Chapter 3
+\end_layout
+
+\begin_layout Section*
+\paragraph_spacing onehalf
+\noindent
+Module 7 (3.5-3.16): Chapter 3
 \end_layout
 
 \end_body
